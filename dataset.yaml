@@ -1,0 +1,12 @@
+names:
+  0: Alphabet - Uppercase
+  1: Alphabet - Lowercase
+  2: Alphanumeric - Digits
+  3: Composition Signs
+  4: One-Cell Contractions - Alphabet
+  5: One-Cell Contractions - Non-Alphabet
+  6: One-Cell Contractions - Part Word
+  7: Two-Cell Contractions - Alphabet
+  8: Two-Cell Contractions - Non-Alphabet
+path: /Filipino Braille Dataset
+train: train.txt
