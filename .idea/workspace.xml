@@ -4,7 +4,216 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="add images" />
+    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="add images">
+      <change afterPath="$PROJECT_DIR$/Scanned/113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scanned/114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_a_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_a_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_b_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_b_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_c_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_c_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_d_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_d_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_e_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_e_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_f_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_f_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_g_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_g_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_h_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_h_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_i_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_i_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_j_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_j_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_k_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_k_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_l_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_l_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_m_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_m_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_n_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_n_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_ng_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_ng_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_o_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_o_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_p_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_p_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_q_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_q_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_r_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_r_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_s_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_s_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_t_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_t_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_u_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_u_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_v_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_v_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_w_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_w_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_x_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_x_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_y_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_y_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_z_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_z_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_ñ_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/letters/lowercase/lowercase - outdated/1letter_lowercase_ñ_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_bagaman_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_bagaman_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_bakit_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_bakit_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_dahil_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_dahil_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ganoon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ganoon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_hakbang_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_hakbang_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_hindi_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_hindi_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ikaw_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ikaw_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ito_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ito_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kailan_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kailan_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kaniya_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kaniya_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kaya_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_kaya_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_lamang_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_lamang_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_mga_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_mga_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ngayon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_ngayon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_paano_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_paano_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_para_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_para_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_rin_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_rin_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_sa_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_sa_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_sang-ayon_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_sang-ayon_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_tayo_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_tayo_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_upang_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_upang_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_wala_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_wala_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_yaman_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/oone_cell_alphabet_contraction_yaman_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scanned/meaning.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Scanned/meaning.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_a_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_a_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_a_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_a_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_b_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_b_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_b_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_b_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_c_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_c_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_c_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_c_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_d_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_d_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_d_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_d_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_e_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_e_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_e_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_e_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_f_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_f_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_f_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_f_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_g_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_g_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_g_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_g_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_h_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_h_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_h_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_h_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_i_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_i_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_i_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_i_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_j_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_j_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_j_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_j_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_k_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_k_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_k_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_k_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_l_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_l_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_l_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_l_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_m_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_m_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_m_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_m_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_n_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_n_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_n_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_n_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ng_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ng_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ng_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ng_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_o_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_o_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_o_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_o_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_p_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_p_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_p_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_p_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_q_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_q_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_q_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_q_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_r_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_r_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_r_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_r_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_s_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_s_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_s_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_s_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_t_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_t_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_t_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_t_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_u_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_u_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_u_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_u_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_v_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_v_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_v_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_v_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_w_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_w_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_w_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_w_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_x_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_x_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_x_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_x_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_y_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_y_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_y_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_y_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_z_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_z_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_z_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_z_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ñ_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ñ_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ñ_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/raw images/letters/lowercase/letter_lowercase_ñ_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_bagaman_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_bagaman_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_bakit_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_bakit_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_dahil_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_dahil_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ganoon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ganoon_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_hakbang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_hakbang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_hindi_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_hindi_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ikaw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ikaw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ito_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ito_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kailan_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kailan_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kaniya_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kaniya_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kaya_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_kaya_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_lamang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_lamang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_mga_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_mga_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ngayon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_ngayon_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_paano_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_paano_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_para_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_para_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_rin_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_rin_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_sa_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_sa_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_sang-ayon_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_sang-ayon_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_tayo_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_tayo_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_upang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_upang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_wala_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_wala_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_yaman_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/raw images/one-cell-contraction-alphabet/one_cell_alphabet_contraction_yaman_2.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,21 +238,21 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/aemio/Desktop/Filipino Braille Dataset",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aemio/PycharmProjects&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,6 +271,12 @@
       <workItem from="1728263869205" duration="251000" />
       <workItem from="1728295724772" duration="196000" />
       <workItem from="1728296160117" duration="1301000" />
+      <workItem from="1728484034963" duration="105000" />
+      <workItem from="1728803989222" duration="25000" />
+      <workItem from="1728806983511" duration="14000" />
+      <workItem from="1728807115195" duration="19000" />
+      <workItem from="1728807334160" duration="594000" />
+      <workItem from="1728880590484" duration="237000" />
     </task>
     <task id="LOCAL-00001" summary="add renames images">
       <option name="closed" value="true" />
@@ -87,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728296364162</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add images">
+      <option name="closed" value="true" />
+      <created>1728484071594</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1728484071594</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
