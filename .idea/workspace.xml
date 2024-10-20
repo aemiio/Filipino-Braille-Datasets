@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="added images" />
+    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="rename folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +69,7 @@
       <workItem from="1728807334160" duration="594000" />
       <workItem from="1728880590484" duration="237000" />
       <workItem from="1728913095702" duration="180000" />
+      <workItem from="1729058939637" duration="203000" />
     </task>
     <task id="LOCAL-00001" summary="add renames images">
       <option name="closed" value="true" />
@@ -118,7 +119,31 @@
       <option name="project" value="LOCAL" />
       <updated>1728913229879</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add batch 2">
+      <option name="closed" value="true" />
+      <created>1729059007638</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1729059007638</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add batch 2">
+      <option name="closed" value="true" />
+      <created>1729059076846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1729059076846</updated>
+    </task>
+    <task id="LOCAL-00009" summary="rename folder">
+      <option name="closed" value="true" />
+      <created>1729059134463</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729059134463</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +156,8 @@
     <MESSAGE value="add images" />
     <MESSAGE value="modify images" />
     <MESSAGE value="added images" />
-    <option name="LAST_COMMIT_MESSAGE" value="added images" />
+    <MESSAGE value="add batch 2" />
+    <MESSAGE value="rename folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
   </component>
 </project>
