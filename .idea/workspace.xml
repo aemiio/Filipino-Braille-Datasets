@@ -4,11 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="rename folder" />
+    <list default="true" id="0c380443-d365-45f5-aed3-4499628adb43" name="Changes" comment="add resized images">
+      <change afterPath="$PROJECT_DIR$/written braille/resize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ako_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ako_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_anak_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_anak_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_araw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_araw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_at_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_at_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ako_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ako_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_anak_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_anak_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_araw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_araw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_at_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_at_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_hanggang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_hanggang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ibig_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ibig_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ingay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ingay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_kanila_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_kanila_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_maging_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_maging_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_mahal_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_mahal_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_na_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_na_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_naging_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_naging_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ng_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_ng_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_pag_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_pag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_raw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_raw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_tunay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_contraction_tunay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_hanggang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_hanggang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ibig_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ibig_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ingay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ingay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_kanila_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_kanila_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_maging_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_maging_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_mahal_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_mahal_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_na_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_na_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_naging_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_naging_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ng_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_ng_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_pag_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_pag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_raw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_raw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_tunay_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_non_alphabet_tunay_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_an_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_an_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ang_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ang_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ar_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ar_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_at_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_at_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_aw_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_aw_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_er_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_er_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_han_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_han_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ibig_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ibig_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ing_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ing_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_mag_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_mag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_mahal_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_mahal_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_nag_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_nag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ng_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_ng_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_pag_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_pag_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_tu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/one_cell_part_word_tu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_14_10_2024_9_39_pm_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,21 +143,22 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/aemio/PycharmProjects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.resize.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/aemio/Downloads/Filipino -Tagalog- Braille.v1-724.yolov8",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,6 +185,10 @@
       <workItem from="1728880590484" duration="237000" />
       <workItem from="1728913095702" duration="180000" />
       <workItem from="1729058939637" duration="203000" />
+      <workItem from="1729427531992" duration="1933000" />
+      <workItem from="1729438564095" duration="117000" />
+      <workItem from="1729438709146" duration="248000" />
+      <workItem from="1729758681851" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="add renames images">
       <option name="closed" value="true" />
@@ -143,7 +262,39 @@
       <option name="project" value="LOCAL" />
       <updated>1729059134463</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add simulated braille v2">
+      <option name="closed" value="true" />
+      <created>1729427599612</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1729427599612</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add written braille (batch 1)">
+      <option name="closed" value="true" />
+      <created>1729427735211</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1729427735211</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add captured images (batch 1)">
+      <option name="closed" value="true" />
+      <created>1729438799543</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1729438799543</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add resized images">
+      <option name="closed" value="true" />
+      <created>1729438913706</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1729438913706</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +309,13 @@
     <MESSAGE value="added images" />
     <MESSAGE value="add batch 2" />
     <MESSAGE value="rename folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="rename folder" />
+    <MESSAGE value="add simulated braille v2" />
+    <MESSAGE value="add written braille (batch 1)" />
+    <MESSAGE value="add captured images (batch 1)" />
+    <MESSAGE value="add resized images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add resized images" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Filipino_Braille_Dataset$resize.coverage" NAME="resize Coverage Results" MODIFIED="1729438649439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/written braille" />
   </component>
 </project>
